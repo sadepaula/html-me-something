@@ -18,20 +18,19 @@ h1{
   }
 
 #finalquestion {
-    color: red;
+    color: darkblue;
+    font-size: x-large;
     text-align: center;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
 }
-#Careerpath1 {
-    padding-top: 70px;
+  .careerpath {
+    font-size: large;
+    margin-bottom: 50px;
+    margin-right: 150px;
+    margin-left: 80px;
+    padding-top: 50px;
     padding-right: 30px;
-    padding-bottom: 70px;
+    padding-bottom: 50px;
     padding-left: 80px;
   }
 
-  #Careerpath2 {
-    padding-top: 70px;
-    padding-right: 30px;
-    padding-bottom: 70px;
-    padding-left: 80px;
-  }
