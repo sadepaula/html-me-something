@@ -1,3 +1,18 @@
-h1{
-    color: blue 
+body{
+    background-color: rgba(18, 151, 118, 0.911)
 }
+h1{
+    text-align: center;
+    color: white; 
+    font-family: Georgia;
+
+ 
+}
+#intro {
+    border: 1px solid black;
+    background-color: lightblue;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+  }
